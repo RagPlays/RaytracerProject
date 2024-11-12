@@ -1,7 +1,7 @@
 Saying hello to raytracing.
 
 This is a project in my second year of DAE.
-Starting a from nothing and implementing all the maths needed to render models onto the screen in any way you want.
+Starting from nothing and implementing all the maths needed to render models onto the screen in any way you want.
 
 This all runs on the cpu so its not that fast eventhough I'm using multithreading.
 
