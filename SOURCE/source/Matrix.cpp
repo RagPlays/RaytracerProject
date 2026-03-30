@@ -1,6 +1,8 @@
 #include <cassert>
 #include <cmath>
 
+#include <xutility>
+
 #include "Matrix.h"
 #include "MathHelpers.h"
 #include "Vector3.h"
